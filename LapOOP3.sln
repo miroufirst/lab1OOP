@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeolpeApp", "PeolpeApp\PeolpeApp.csproj", "{27044D2D-A556-4B3C-A633-E09F45C48037}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStorage", "FileStorage\FileStorage.csproj", "{BF766BC0-845C-4D86-B143-71AD87E3E1D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27044D2D-A556-4B3C-A633-E09F45C48037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27044D2D-A556-4B3C-A633-E09F45C48037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27044D2D-A556-4B3C-A633-E09F45C48037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27044D2D-A556-4B3C-A633-E09F45C48037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF766BC0-845C-4D86-B143-71AD87E3E1D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF766BC0-845C-4D86-B143-71AD87E3E1D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF766BC0-845C-4D86-B143-71AD87E3E1D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF766BC0-845C-4D86-B143-71AD87E3E1D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {660F6005-4D45-49BD-A6E6-0B2A84DE9F60}
+	EndGlobalSection
+EndGlobal
